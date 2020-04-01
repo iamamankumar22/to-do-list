@@ -59,13 +59,3 @@ The site is designed with RWD approach, mobile-first.
 
 
 
-## Previews
-
-![](./images/to-do-list_prev1.png)![](./images/to-do-list_prev2.png)![to-do-list_prev3](./images/to-do-list_prev3.png)
-
-
-
-![to-do-list_prev4](./images/to-do-list_prev4.png)![to-do-list_prev4](./images/to-do-list_prev5.png)
-
-
-
